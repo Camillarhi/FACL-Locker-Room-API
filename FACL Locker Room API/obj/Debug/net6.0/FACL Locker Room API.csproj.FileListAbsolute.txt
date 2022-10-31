@@ -1,0 +1,30 @@
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\appsettings.Development.json
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\appsettings.json
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\FACL Locker Room API.exe
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\FACL Locker Room API.deps.json
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\FACL Locker Room API.runtimeconfig.json
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\FACL Locker Room API.dll
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\FACL Locker Room API.pdb
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.csproj.AssemblyReference.cache
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.GeneratedMSBuildEditorConfig.editorconfig
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.AssemblyInfoInputs.cache
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.AssemblyInfo.cs
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.csproj.CoreCompileInputs.cache
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.MvcApplicationPartsAssemblyInfo.cs
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.MvcApplicationPartsAssemblyInfo.cache
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\staticwebassets.build.json
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\staticwebassets.development.json
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\scopedcss\bundle\FACL Locker Room API.styles.css
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.csproj.CopyComplete
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.dll
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\refint\FACL Locker Room API.dll
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.pdb
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\FACL Locker Room API.genruntimeconfig.cache
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\obj\Debug\net6.0\ref\FACL Locker Room API.dll
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\string-string.json
+C:\TASKS\FACL Locker Room API\FACL Locker Room API\bin\Debug\net6.0\accounts\rita-anen.json
